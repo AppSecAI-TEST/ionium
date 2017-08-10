@@ -17,3 +17,7 @@ include 'services:webservice'
 */
 
 rootProject.name = 'ionium'
+include 'front'
+include 'back'
+include 'blog'
+
